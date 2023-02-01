@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import {useContext, useEffect} from "react";
 import GlobalContext from "../GlobalContext";
 import Tidbit from "./Tidbit";
 
